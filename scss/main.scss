@@ -2,17 +2,22 @@
 
 @import "./base/reset";
 @import "./base/vars";
+@import "./base/mixins";
 @import "./base/base";
-
 
 
 // Block's header 
 
 @import "./blocks/header";
-
-//  Block Nav
 @import "./blocks/nav";
-
-// info block
-
-@import "./blocks/info"
+@import "./blocks/nav-icon-btn";
+@import "./blocks/info";
+@import "./blocks/benefits";
+@import "./blocks/apartments";
+@import "./blocks/card";
+@import "./blocks/cta";
+@import "./blocks/form";
+@import "./blocks/video";
+@import "./blocks/section-map";
+@import "./blocks/feedback";
+@import "./blocks/footer";
